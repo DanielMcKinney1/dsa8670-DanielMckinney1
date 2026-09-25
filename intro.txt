@@ -4,6 +4,6 @@ Name: Daniel McKinney
 
 Major / program: Data Science and Analytics
 
-Favorite dataset or industry interest:
+Favorite dataset or industry interest: My industry interest is packaging/logistics
 
 One reason I am studying analytics:
