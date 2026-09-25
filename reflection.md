@@ -1,7 +1,7 @@
 One thing that I learned from the readings was how the branches work together. Specifically how the main branch holds the committed changes, 
 a production branch is useful for representing the project in a production ready state, an experimental branch is good for apply unstable features, 
 and you can have further branching for each new feature off the experimental branch. This structuring for branches was not something I knew, and the readings
-taught me what branches were and how to effectively structure them for projects.
+taught me not only what branches were but also how to effectively structure them for projects.
 
 One challenge I faced in GitHub was that I kept committing changes without remembering to place the description in beforehand. 
 I learned you can ammend the last commit, which gave me an opportunity to add a comment per the assignment instructions. 
