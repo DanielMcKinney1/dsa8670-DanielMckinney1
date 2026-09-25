@@ -6,4 +6,4 @@ Major / program: Data Science and Analytics
 
 Favorite dataset or industry interest: My industry interest is packaging/logistics
 
-One reason I am studying analytics:
+One reason I am studying analytics: While working on a Co-op, I found that the analytics projects I was assigned were vastly more entertaining than my main job duties.
