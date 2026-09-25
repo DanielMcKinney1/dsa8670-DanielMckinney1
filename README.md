@@ -73,3 +73,7 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+
+## Version Control Paragraph
+Version control is important for managing the work of many parties that are collaborating together. It tracks each author and their changes and helps avoid issues like team members overwriting each other's work. This is increasingly important in analytics, as analytics is a very iterative process where many changes and repetitions are made throughout projects. Using pull requests also allow moderation of new versions, controlling what changes get made.
